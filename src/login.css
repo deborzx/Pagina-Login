@@ -1,6 +1,6 @@
 :root {
     --input-error: red;
-    --button-linear:  #FE4347;
+    --button-linear: #F20C60;
     --button-disabled: #acacac;
     --button-success: rgb(18, 151, 107);
     --gray: #929292;
@@ -16,7 +16,7 @@
   
   .login {
     height: 100vh;
-    background: black;
+    background: linear-gradient(to bottom, rgb(0, 0, 0), #171B26);
     display: flex;
     justify-content: center;
     align-items: center;
